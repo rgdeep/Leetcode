@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rgdeep/Leetcode/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/rgdeep/Leetcode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
